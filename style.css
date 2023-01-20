@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header, .hero-section{
+    display: flex;
+}
+.navbar-container{
+    list-style-type: none;
+    display: flex;
+    margin-top: 40px;;
+    font-size: 18px;;
+}
+header img{
+    padding-top: 30px;;
+    margin-left: 200px;;
+
+}
+.navbar-container :nth-child(1){
+    margin-left: 70px;;
+}
+.navbar-container :nth-child(2){
+    margin-left: 70px;;
+}
+.navbar-container :nth-child(3){
+    margin-left: 70px;;
+}
+.left-part{
+    margin-left: 180px;;
+    margin-top: 20%;
+}
