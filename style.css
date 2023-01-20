@@ -62,3 +62,7 @@ button{
 .image-section img{
     margin: 15px;
 }
+.image-section div{
+    display: flex;
+    
+}
